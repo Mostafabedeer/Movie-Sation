@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-Sation/static/css/main.992a63a4.css",
+    "main.js": "/Movie-Sation/static/js/main.db8090ae.js",
+    "index.html": "/Movie-Sation/index.html",
+    "main.992a63a4.css.map": "/Movie-Sation/static/css/main.992a63a4.css.map",
+    "main.db8090ae.js.map": "/Movie-Sation/static/js/main.db8090ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.992a63a4.css",
+    "static/js/main.db8090ae.js"
+  ]
+}
